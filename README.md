@@ -21,6 +21,6 @@
   <a href ="mailto:marco.antvs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marco-antonio-valim-a98520320/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/valimMarcoDev/valimMarcoDev/blob/output/action.yml)
+  ![Snake animation](https://github.com/valimMarcoDev/valimMarcoDev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
